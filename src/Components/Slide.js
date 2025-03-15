@@ -1,5 +1,5 @@
 import React from "react";
-import Background from "../Assets/hero2.png";
+// import Background from "../Assets/hero2.png";
 import Vegetable from "../Assets/vegetables.png";
 import Meat from "../Assets/meat.png";
 import Fish from "../Assets/fish.png";

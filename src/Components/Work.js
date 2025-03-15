@@ -1,5 +1,5 @@
 import React from "react";
-import Background from "../Assets/hero2.png";
+// import Background from "../Assets/hero2.png";
 import Luni from "../Assets/lunch1.webp";
 import Marti from "../Assets/lunch2.webp";
 import Miercuri from "../Assets/lunch3.webp";
