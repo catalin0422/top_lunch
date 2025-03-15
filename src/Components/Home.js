@@ -18,7 +18,7 @@ const Home = () => {
                <p>+373 (68) 631 885</p>
                <p>str. Uzinelor 17, Chișinău</p>
               </div>
-              <a class="menu-button" href="menu.pdf" download="menu.pdf">
+              <a class="menu-button" href="menu.xlsx" download="menu.xlsx">
                  <button className="secondary-button">DESCARCĂ MENIUL</button>
               </a>
             </div>
