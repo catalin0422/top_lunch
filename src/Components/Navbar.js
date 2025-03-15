@@ -17,26 +17,26 @@ import PhoneRoundedIcon from "@mui/icons-material/PhoneRounded";
 import { Link } from "react-scroll";
 
 const Navbar = () => {
-  const [openMenu, setOpenMenu] = useState(false);
-  const menuOptions = [
-    {
-      text: "Home",
-      icon: <HomeIcon />,
-    },
-    {
-      text: "Despre noi",
-      icon: <InfoIcon />,
-    },
-    {
-      text: "Meniu",
-      icon: <RestaurantMenuIcon />,
-    },
-    {
-      text: "Contacteaza-ne",
-      icon: <PhoneRoundedIcon />,
-    },
+  // // const [openMenu, setOpenMenu] = useState(false);
+  // const menuOptions = [
+  //   {
+  //     text: "Home",
+  //     icon: <HomeIcon />,
+  //   },
+  //   {
+  //     text: "Despre noi",
+  //     icon: <InfoIcon />,
+  //   },
+  //   {
+  //     text: "Meniu",
+  //     icon: <RestaurantMenuIcon />,
+  //   },
+  //   {
+  //     text: "Contacteaza-ne",
+  //     icon: <PhoneRoundedIcon />,
+  //   },
     
-  ];
+  // ];
   return (
     <nav>
       <div className="nav-logo-container">
