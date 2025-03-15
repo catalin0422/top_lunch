@@ -36,9 +36,9 @@ const Footer = () => {
         <div className="footer-section-columns">
          <span> </span>
          <span class="footer-heading">Contactează-ne:</span>
-          <span>+373 (60) 123 123</span>
-          <span>hello@food.com</span>
-          <span>press@food.com</span>
+          <span>+373 (68) 631 885</span>
+          <span>toplunch.md@gmail.com</span>
+          <span></span>
          
         </div>
         {/* <div className="footer-section-columns">

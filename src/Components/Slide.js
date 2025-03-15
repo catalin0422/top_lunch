@@ -3,6 +3,7 @@ import React from "react";
 import Vegetable from "../Assets/vegetables.png";
 import Meat from "../Assets/meat.png";
 import Fish from "../Assets/fish.png";
+import Stew from "../Assets/stew.png";
 
 const Slide = () => {
   const workInfoData = [
@@ -20,6 +21,11 @@ const Slide = () => {
       image: Meat,
       title: "Carne proaspătă și de calitate",
       text1: "Toată carnea este păstrată în condiții ideale de refrigerare, pentru a asigura prospețimea și calitatea până în momentul utilizării. ",
+    },
+    {
+      image: Stew,
+      title: "Mâncare gustoasă, pregătită cu pasiune",
+      text1: "Fiecare preparat este gătit cu atenție la detalii, folosind ingrediente proaspete și metode tradiționale de preparare. Ne asigurăm că aromele naturale sunt păstrate, iar combinațiile de gusturi creează o experiență culinară autentică. Fără aditivi sau ingrediente artificiale, fiecare farfurie reflectă pasiunea noastră pentru mâncare sănătoasă și delicioasă.",
     },
   ];
   return (

@@ -15,7 +15,7 @@ const Home = () => {
                     Livrăm <span className="highlight-pranz">prânzuri</span> delicioase, pregătite cu grijă în fiecare zi!
               </h1>
               <div className="primary-text">
-               <p>+373 (60) 123123</p>
+               <p>+373 (68) 631 885</p>
                <p>str. Uzinelor 17, Chișinău</p>
               </div>
               <a class="menu-button" href="menu.pdf" download="menu.pdf">
