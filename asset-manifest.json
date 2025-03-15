@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/top_lunch/static/css/main.59ff18b9.css",
+    "main.js": "/top_lunch/static/js/main.2b88a11d.js",
+    "static/media/fish.png": "/top_lunch/static/media/fish.061f0d1fd3d0cd89b86d.png",
+    "static/media/hero2.png": "/top_lunch/static/media/hero2.0a25b45bb817d9447603.png",
+    "static/media/vegetables.png": "/top_lunch/static/media/vegetables.4b0bb1bdc384f923b086.png",
+    "static/media/meat.png": "/top_lunch/static/media/meat.381b0c4a7cca8d31c4dc.png",
+    "static/media/lunch3.webp": "/top_lunch/static/media/lunch3.0871f902211c3f5464cc.webp",
+    "static/media/lunch2.webp": "/top_lunch/static/media/lunch2.415351137038c825af03.webp",
+    "static/media/lunch1.webp": "/top_lunch/static/media/lunch1.85f11e3353ebcf98c9a0.webp",
+    "static/media/Logo.png": "/top_lunch/static/media/Logo.573c1bee4c7b9b7caebe.png",
+    "static/media/toplunch2.png": "/top_lunch/static/media/toplunch2.5a4469ab7241343efc39.png",
+    "index.html": "/top_lunch/index.html",
+    "main.59ff18b9.css.map": "/top_lunch/static/css/main.59ff18b9.css.map",
+    "main.2b88a11d.js.map": "/top_lunch/static/js/main.2b88a11d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ff18b9.css",
+    "static/js/main.2b88a11d.js"
+  ]
+}
