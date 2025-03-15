@@ -1,15 +1,15 @@
 import React from "react";
 // import Background from "../Assets/hero2.png";
-import Luni from "../Assets/lunch1.webp";
-import Marti from "../Assets/lunch2.webp";
-import Miercuri from "../Assets/lunch3.webp";
-import Joi from "../Assets/lunch1.webp";
-import Vineri from "../Assets/lunch2.webp";
+import Ciuperci from "../Assets/lunch1.webp";
+import Bors from "../Assets/lunch2.webp";
+import Pui from "../Assets/lunch3.webp";
+import Perisoare from "../Assets/lunch4.webp";
+import Radauteana from "../Assets/lunch5.webp";
 
 const Work = () => {
   const workInfoData = [
     {
-      image: Luni,
+      image: Ciuperci,
       title: "Luni",
       text1: "• Supă cremă de ciuperci cu crutoane",
       text2: "• Bulgur cu legume",
@@ -18,7 +18,7 @@ const Work = () => {
       text5: "80 lei",
     },
     {
-      image: Marti,
+      image: Pui,
       title: "Marti",
       text1: "• Ciorba de pui",
       text2: "• Colțunași cu cartofi",
@@ -27,7 +27,7 @@ const Work = () => {
       text5: "80 lei",
     },
     {
-      image: Miercuri,
+      image: Perisoare,
       title: "Miercuri",
       text1: "• Ciorbă cu perișoare",
       text2: "• Pilaf",
@@ -36,7 +36,7 @@ const Work = () => {
       text5: "80 lei",
     },
     {
-      image: Joi,
+      image: Bors,
       title: "Joi",
       text1: "• Bors roșu",
       text2: "• Gulaș de vită cu legume",
@@ -44,7 +44,7 @@ const Work = () => {
       text5: "80 lei",
     },
     {
-      image: Vineri,
+      image: Radauteana,
       title: "Vineri",
       text1: "• Ciorbă rădăuțeană",
       text2: "• Spaghetti Bolognese",
