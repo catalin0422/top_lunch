@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/top_lunch/static/css/main.59ff18b9.css",
-    "main.js": "/top_lunch/static/js/main.2b88a11d.js",
-    "static/media/fish.png": "/top_lunch/static/media/fish.061f0d1fd3d0cd89b86d.png",
-    "static/media/hero2.png": "/top_lunch/static/media/hero2.0a25b45bb817d9447603.png",
-    "static/media/vegetables.png": "/top_lunch/static/media/vegetables.4b0bb1bdc384f923b086.png",
-    "static/media/meat.png": "/top_lunch/static/media/meat.381b0c4a7cca8d31c4dc.png",
-    "static/media/lunch3.webp": "/top_lunch/static/media/lunch3.0871f902211c3f5464cc.webp",
-    "static/media/lunch2.webp": "/top_lunch/static/media/lunch2.415351137038c825af03.webp",
-    "static/media/lunch1.webp": "/top_lunch/static/media/lunch1.85f11e3353ebcf98c9a0.webp",
-    "static/media/Logo.png": "/top_lunch/static/media/Logo.573c1bee4c7b9b7caebe.png",
-    "static/media/toplunch2.png": "/top_lunch/static/media/toplunch2.5a4469ab7241343efc39.png",
-    "index.html": "/top_lunch/index.html",
-    "main.59ff18b9.css.map": "/top_lunch/static/css/main.59ff18b9.css.map",
-    "main.2b88a11d.js.map": "/top_lunch/static/js/main.2b88a11d.js.map"
+    "main.css": "/static/css/main.59ff18b9.css",
+    "main.js": "/static/js/main.5afe4811.js",
+    "static/media/fish.png": "/static/media/fish.061f0d1fd3d0cd89b86d.png",
+    "static/media/hero2.png": "/static/media/hero2.0a25b45bb817d9447603.png",
+    "static/media/vegetables.png": "/static/media/vegetables.4b0bb1bdc384f923b086.png",
+    "static/media/meat.png": "/static/media/meat.381b0c4a7cca8d31c4dc.png",
+    "static/media/lunch3.webp": "/static/media/lunch3.0871f902211c3f5464cc.webp",
+    "static/media/lunch4.webp": "/static/media/lunch4.0e12380eccb4a3ccd04a.webp",
+    "static/media/lunch2.webp": "/static/media/lunch2.415351137038c825af03.webp",
+    "static/media/lunch1.webp": "/static/media/lunch1.85f11e3353ebcf98c9a0.webp",
+    "static/media/lunch5.webp": "/static/media/lunch5.4538e02ae64b77bff5b4.webp",
+    "static/media/Logo.png": "/static/media/Logo.573c1bee4c7b9b7caebe.png",
+    "static/media/toplunch2.png": "/static/media/toplunch2.5a4469ab7241343efc39.png",
+    "index.html": "/index.html",
+    "main.59ff18b9.css.map": "/static/css/main.59ff18b9.css.map",
+    "main.5afe4811.js.map": "/static/js/main.5afe4811.js.map"
   },
   "entrypoints": [
     "static/css/main.59ff18b9.css",
-    "static/js/main.2b88a11d.js"
+    "static/js/main.5afe4811.js"
   ]
 }
