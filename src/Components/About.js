@@ -19,8 +19,9 @@ const About = () => {
         <div className="about-details">
           <p className="about-secondary-text">DETALII:</p>
           <ul className="details-list">
+            <li>• Lucrăm pe bază de contract + factură fiscală.</li>
             <li>• Comenzi până la ora 10:00 sunt livrate în aceeași zi.</li>
-            <li>• Comanda minimă este de 12 porții</li>
+            <li>• Comanda minimă zilnică este de 15 porții</li>
             <li>• Tăcâmuri gratuite incluse.</li>
             <li>• Ingrediente proaspete și ecologice, fără aditivi chimici.</li>
             <li>• Livrarea se face in caserole termoizolante.</li>
