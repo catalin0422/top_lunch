@@ -19,7 +19,7 @@ const Home = () => {
               <p>Livrare gratuită</p>
                <p>+373 (68) 631 885</p>
               </div>
-              <a class="menu-button" href="menu.xlsx" download="menu-pranz-toplunch.xlsx">
+              <a class="menu-button" href="menu-pranz-toplunch.xlsx" download="menu-pranz-toplunch.xlsx">
                  <button className="secondary-button">DESCARCĂ MENIUL</button>
               </a>
             </div>
