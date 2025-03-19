@@ -3,23 +3,27 @@ import Home from "./Components/Home";
 import Work from "./Components/Work";
 import About from "./Components/About";
 import Slide from "./Components/Slide";
-// import Testimonial from "./Components/Testimonial";
-// import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
-// import Contacte from "./Components/Contacte";
-
+import React, { useEffect } from "react";
+import ReactGA from "react-ga"; // Import React GA
 
 function App() {
+  // Initialize Google Analytics with your tracking ID
+  useEffect(() => {
+    ReactGA.initialize("G-P2W2CCPBPH"); // Replace with your Google Analytics Tracking ID
+    ReactGA.pageview(window.location.pathname + window.location.search); // Track the initial page view
+  }, []);
+
   return (
     <div className="App">
       <Home />
-      <Work/>
-      <About/>
-      <Slide/>
-      {/* <Contacte/> */}
-      <Footer/>
+      <Work />
+      <About />
+      <Slide />
+      <Footer />
     </div>
   );
 }
 
 export default App;
+
