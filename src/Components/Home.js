@@ -1,12 +1,12 @@
 import React from "react";
 import Navbar from "./Navbar";
-import Hero from "../Assets/hero2.png";
+import Hero from "../Assets/hero2.webp";
 
 
 const Home = () => {
     return (
       <div className="home-container">
-        <img className="hero-section" src={Hero} alt="" />
+        <img className="hero-section" src={Hero} alt="Top Lunch - Pranzuri delicioase direct la birou" loading="lazy"/>
         <Navbar />
         {}
           <div className="home-banner-container">
@@ -19,7 +19,7 @@ const Home = () => {
               <p>Livrare gratuită</p>
                <p>+373 (68) 631 885</p>
               </div>
-              <a class="menu-button" href="menu.xlsx" download="menu.xlsx">
+              <a class="menu-button" href="menu.xlsx" download="menu-pranz-toplunch.xlsx">
                  <button className="secondary-button">DESCARCĂ MENIUL</button>
               </a>
             </div>

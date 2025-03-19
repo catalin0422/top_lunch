@@ -1,9 +1,8 @@
 import React from "react";
-// import Background from "../Assets/hero2.png";
-import Vegetable from "../Assets/vegetables.png";
-import Meat from "../Assets/meat.png";
-import Fish from "../Assets/fish.png";
-import Stew from "../Assets/stew.png";
+import Vegetable from "../Assets/vegetables.webp";
+import Meat from "../Assets/meat.webp";
+import Fish from "../Assets/fish.webp";
+import Stew from "../Assets/stew.webp";
 
 const Slide = () => {
   const workInfoData = [
@@ -43,7 +42,7 @@ const Slide = () => {
         {workInfoData.map((data) => (
           <div className="slide-section-info" key={data.title}>
             <div className="info-boxes-img-container">
-              <img src={data.image} alt="" />
+              <img src={data.image} alt="" loading="lazy"/>
             </div>
             <h2 class="slide-meniu-title">{data.title}</h2>
             <p class="slide-meniu">{data.text1}</p>

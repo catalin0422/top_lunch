@@ -7,7 +7,7 @@ const About = () => {
     <div id="about-section" className="about-section-container">
       <div className="about-section-content">
         <div className="about-description">
-          <p className="about-primary-subheading"> DESPRE NOI </p>
+          <h3 className="about-primary-subheading"> DESPRE NOI </h3>
           <p className="about-primary-text">
             Suntem o companie dedicată livrării de prânzuri delicioase și sănătoase
             pentru birouri și corporații. Oferim prânzuri gătite cu ingrediente

@@ -1,5 +1,4 @@
 import React from "react";
-// import Background from "../Assets/hero2.png";
 import Ciuperci from "../Assets/lunch1.webp";
 import Bors from "../Assets/lunch2.webp";
 import Pui from "../Assets/lunch3.webp";
@@ -56,15 +55,15 @@ const Work = () => {
     <div id="menu-section" className="work-section-wrapper">
     
       <div className="work-section-top">
-        <p className="work-primary-text">
+        <h2 className="work-primary-text">
         Explorează meniul nostru de prânzuri:
-        </p>
+        </h2>
       </div>
       <div className="work-section-bottom">
         {workInfoData.map((data) => (
           <div className="work-section-info" key={data.title}>
             <div className="info-boxes-img-container">
-              <img src={data.image} alt="" />
+              <img src={data.image} alt="Meniul zilei Top Lunch" loading="lazy" />
             </div>
             <h2 class="work-meniu-title">{data.title}</h2>
             <p class="work-meniu">{data.text1}</p>

@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../Assets/Logo.png";
+import Logo from "../Assets/Logo.webp";
 import { FaInstagram } from "react-icons/fa";
 
 import { BsYoutube } from "react-icons/bs";
