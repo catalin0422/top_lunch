@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.68d8f353.css",
-    "main.js": "/static/js/main.5b197a0b.js",
-    "static/media/stew.png": "/static/media/stew.f7c9b6e52c6792d31223.png",
-    "static/media/fish.png": "/static/media/fish.061f0d1fd3d0cd89b86d.png",
-    "static/media/hero2.png": "/static/media/hero2.0a25b45bb817d9447603.png",
-    "static/media/vegetables.png": "/static/media/vegetables.4b0bb1bdc384f923b086.png",
-    "static/media/meat.png": "/static/media/meat.381b0c4a7cca8d31c4dc.png",
+    "main.css": "/static/css/main.8788fb63.css",
+    "main.js": "/static/js/main.7779eb98.js",
     "static/media/lunch3.webp": "/static/media/lunch3.0871f902211c3f5464cc.webp",
     "static/media/lunch4.webp": "/static/media/lunch4.0e12380eccb4a3ccd04a.webp",
     "static/media/lunch2.webp": "/static/media/lunch2.415351137038c825af03.webp",
     "static/media/lunch1.webp": "/static/media/lunch1.85f11e3353ebcf98c9a0.webp",
     "static/media/lunch5.webp": "/static/media/lunch5.4538e02ae64b77bff5b4.webp",
-    "static/media/Logo.png": "/static/media/Logo.573c1bee4c7b9b7caebe.png",
-    "static/media/toplunch2.png": "/static/media/toplunch2.5a4469ab7241343efc39.png",
+    "static/media/fish.webp": "/static/media/fish.75609bf087ad260873fb.webp",
+    "static/media/stew.webp": "/static/media/stew.76fdfc089dd43aa520c8.webp",
+    "static/media/hero2.webp": "/static/media/hero2.845d6d1010f17b0bb317.webp",
+    "static/media/vegetables.webp": "/static/media/vegetables.0b33501ad4c5b2c1183e.webp",
+    "static/media/meat.webp": "/static/media/meat.f17a4690aaed56dfd656.webp",
+    "static/media/Logo.webp": "/static/media/Logo.7abc87db5598f8800e81.webp",
+    "static/media/toplunch2.webp": "/static/media/toplunch2.c4221d46620eafc958ea.webp",
     "index.html": "/index.html",
-    "main.68d8f353.css.map": "/static/css/main.68d8f353.css.map",
-    "main.5b197a0b.js.map": "/static/js/main.5b197a0b.js.map"
+    "main.8788fb63.css.map": "/static/css/main.8788fb63.css.map",
+    "main.7779eb98.js.map": "/static/js/main.7779eb98.js.map"
   },
   "entrypoints": [
-    "static/css/main.68d8f353.css",
-    "static/js/main.5b197a0b.js"
+    "static/css/main.8788fb63.css",
+    "static/js/main.7779eb98.js"
   ]
 }
