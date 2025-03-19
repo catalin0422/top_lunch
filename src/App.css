@@ -436,6 +436,11 @@ nav {
   min-height: 50px;
 }
 
+.bold-text{
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
 @media (max-width: 1000px) {
   html.body{
     overflow-x: hidden;
