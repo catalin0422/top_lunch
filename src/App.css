@@ -226,6 +226,7 @@ nav {
   color: #000000;
   padding-bottom: 0em;
   padding-top: 0em;
+
 }
 
 
@@ -476,6 +477,7 @@ nav {
 
   .work-primary-text  {
     font-size: 2rem;
+    text-align: center;
   }
 
   .primary-subheading {
