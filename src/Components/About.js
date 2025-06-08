@@ -21,6 +21,7 @@ const About = () => {
           <ul className="details-list">
             <li>• <span class="bold-text">Meniu diversificat și sănătos </span> – Ingrediente proaspete, fără aditivi chimici.</li>
             <li>• <span class="bold-text">Livrare rapidă și gratuită </span> – Comenzile făcute până la ora 10:00 ajung în aceeași zi.</li>
+            <li>• <span class="bold-text">Comanda minima zilnica </span>  – 10 portii.</li>
             <li>• <span class="bold-text">Contract și factură fiscală </span> – Perfect pentru companii și angajați.</li>
             <li>• <span class="bold-text">Ambalaje ecologice disponibile </span>  – Caserole bio contra cost.</li>
           </ul>

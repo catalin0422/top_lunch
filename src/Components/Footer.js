@@ -38,7 +38,7 @@ const Footer = () => {
          <span class="footer-heading">Contactează-ne:</span>
           <span>+373 (68) 631 885</span>
           <span>toplunch.md@gmail.com</span>
-          <span>str.Uzinelor 17, Chișinău</span>
+          <span></span>
           <span></span>
          
         </div>
