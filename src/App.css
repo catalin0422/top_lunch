@@ -76,6 +76,9 @@ nav {
   cursor: pointer;
 }
 
+.home-container {
+  height: 100vh;
+}
 .home-banner-container {
   position: relative;
   display: flex;
@@ -158,7 +161,8 @@ nav {
 .work-section-wrapper {
   width: 100%;
   padding-top : 1em;
-  margin-top: 15rem;
+  margin-top: 5rem;
+  margin-bottom: 8rem;
   /*background-image: url("Assets/menuBack2.png");*/
 }
 .work-section-top p {
@@ -232,7 +236,6 @@ nav {
 
 
 .about-section-container { 
-  margin-top: 10rem;
   position: relative;
   display: flex;
   align-items: center;
@@ -240,7 +243,6 @@ nav {
   width: 100%;
   height: 100vh;
   background-color: black;
-  height: 100vh;
 }
 
 .about-section-text-container {
@@ -307,6 +309,7 @@ nav {
   width: 100%;
   padding-top : 0em;
   margin-top: 7rem;
+  margin-bottom: 6rem;
 }
 .slide-section-top p {
   text-align: center;
@@ -391,7 +394,7 @@ nav {
 .footer-wrapper {
   margin: 0rem 0rem;
   display: flex;
-  margin-top: 10rem;
+  
   background-color: #000000;
   padding: 4rem 3rem;
   min-height: 300px;
@@ -469,6 +472,7 @@ nav {
   }
   .work-section-wrapper {
     padding-top : 0em;
+    margin-top: 2rem;;
   }
   .work-section-info {
     width: 300px;
@@ -487,9 +491,9 @@ nav {
   }
 
   .about-section-container {
-    margin-top: 10rem;
     padding: 1rem;
     height: 800px;
+    padding-bottom: 2rem;
   }
 
   .about-section-content{
@@ -519,7 +523,7 @@ nav {
   
   .details-list li {
     position: relative;
-    padding-left: 25px; /* Lasă spațiu pentru bulina personalizată */
+    padding-left: 25px; 
     font-size: 1em;
     margin-bottom: 8px;
      /* Textul detaliilor este alb */
