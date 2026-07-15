@@ -1,25 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.927e55e4.css",
-    "main.js": "/static/js/main.ceece464.js",
-    "static/media/lunch3.webp": "/static/media/lunch3.0871f902211c3f5464cc.webp",
-    "static/media/lunch4.webp": "/static/media/lunch4.0e12380eccb4a3ccd04a.webp",
-    "static/media/lunch2.webp": "/static/media/lunch2.415351137038c825af03.webp",
-    "static/media/lunch1.webp": "/static/media/lunch1.85f11e3353ebcf98c9a0.webp",
-    "static/media/lunch5.webp": "/static/media/lunch5.4538e02ae64b77bff5b4.webp",
+    "main.css": "/static/css/main.16f0d2c7.css",
+    "main.js": "/static/js/main.fb27bd0e.js",
+    "static/media/hero.webp": "/static/media/hero.259ba67ad468692b439d.webp",
     "static/media/fish.webp": "/static/media/fish.75609bf087ad260873fb.webp",
     "static/media/stew.webp": "/static/media/stew.76fdfc089dd43aa520c8.webp",
-    "static/media/hero2.webp": "/static/media/hero2.845d6d1010f17b0bb317.webp",
     "static/media/vegetables.webp": "/static/media/vegetables.0b33501ad4c5b2c1183e.webp",
     "static/media/meat.webp": "/static/media/meat.f17a4690aaed56dfd656.webp",
-    "static/media/Logo.webp": "/static/media/Logo.7abc87db5598f8800e81.webp",
-    "static/media/toplunch2.webp": "/static/media/toplunch2.c4221d46620eafc958ea.webp",
+    "static/media/favicon.webp": "/static/media/favicon.56fadc4e9af9176a5564.webp",
+    "static/media/Logo.webp": "/static/media/Logo.c2e3eb23fd4d67a26144.webp",
     "index.html": "/index.html",
-    "main.927e55e4.css.map": "/static/css/main.927e55e4.css.map",
-    "main.ceece464.js.map": "/static/js/main.ceece464.js.map"
+    "main.16f0d2c7.css.map": "/static/css/main.16f0d2c7.css.map",
+    "main.fb27bd0e.js.map": "/static/js/main.fb27bd0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.927e55e4.css",
-    "static/js/main.ceece464.js"
+    "static/css/main.16f0d2c7.css",
+    "static/js/main.fb27bd0e.js"
   ]
 }
