@@ -1,53 +1,26 @@
 import React from "react";
 import Logo from "../Assets/Logo.webp";
-import { FaInstagram } from "react-icons/fa";
-
-import { BsYoutube } from "react-icons/bs";
-import { FaFacebookF } from "react-icons/fa";
 
 const Footer = () => {
+  const year = new Date().getFullYear();
   return (
-    <div id="contact-section"  className="footer-wrapper">
-      <div className="footer-section-one">
-        <div className="footer-logo-container">
-          <img src={Logo} alt="" />
+    <footer className="footer-wrapper">
+      <div className="footer-inner">
+        <div className="footer-brand">
+          <img className="footer-logo" src={Logo} alt="TopLunch" />
+          <p className="footer-tagline">
+            Prânzuri livrate la birou, în Chișinău.
+          </p>
         </div>
-        <div className="footer-icons">
-        <a href="https://www.instagram.com/yourpage" target="_blank" rel="noopener noreferrer">
-    <FaInstagram />
-        </a>
-        <a href="https://www.youtube.com/yourchannel" target="_blank" rel="noopener noreferrer">
-    <BsYoutube />
-        </a>
-        <a href="https://www.facebook.com/yourpage" target="_blank" rel="noopener noreferrer">
-    <FaFacebookF />
-       </a>
+        <div className="footer-contact">
+          <span className="footer-heading">Contactează-ne</span>
+          <a href="tel:+37368631885">+373 (68) 631 885</a>
+          <a href="mailto:toplunch.md@gmail.com">toplunch.md@gmail.com</a>
+          <span className="footer-hours">De luni până vineri · comanzi până la 10:00</span>
         </div>
       </div>
-      <div className="footer-section-two">
-        {/* <div className="footer-section-columns">
-          <span>Qualtiy</span>
-          <span>Help</span>
-          <span>Share</span>
-          <span>Carrers</span>
-          <span>Testimonials</span>
-          <span>Work</span>
-        </div> */}
-        <div className="footer-section-columns">
-         <span> </span>
-         <span class="footer-heading">Contactează-ne:</span>
-          <span>+373 (68) 631 885</span>
-          <span>toplunch.md@gmail.com</span>
-          <span></span>
-          <span></span>
-         
-        </div>
-        {/* <div className="footer-section-columns">
-          <span>Terms & Conditions</span>
-          <span>Privacy Policy</span>
-        </div> */}
-      </div>
-    </div>
+      <p className="footer-copyright">© {year} TopLunch · Chișinău, Moldova</p>
+    </footer>
   );
 };
 
