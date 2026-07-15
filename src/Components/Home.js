@@ -47,12 +47,14 @@ const Home = () => {
           </p>
         </div>
 
-        <img
-          className="hero-photo"
-          src={Hero}
-          alt="Prânz TopLunch pregătit pentru livrare la birou"
-          fetchPriority="high"
-        />
+        <div className="hero-photo">
+          <img
+            className="hero-photo-img"
+            src={Hero}
+            alt="Prânz TopLunch pregătit pentru livrare la birou"
+            fetchPriority="high"
+          />
+        </div>
       </div>
     </header>
   );
