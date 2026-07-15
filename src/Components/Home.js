@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-scroll";
 import { FaLeaf, FaPhoneAlt, FaWhatsapp } from "react-icons/fa";
 import Navbar from "./Navbar";
-import Hero from "../Assets/hero.webp";
+import Hero from "../Assets/hero3.webp";
 
 const Home = () => {
   return (
